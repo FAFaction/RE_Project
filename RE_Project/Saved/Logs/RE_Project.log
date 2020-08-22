@@ -1,0 +1,919 @@
+﻿Log file open, 08/23/20 01:29:15
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VSPerf140.dll' (GetLastError=126)
+LogWindows: File 'VSPerf140.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: RE_Project
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(41396514) SRandInit(41396514).
+LogInit: Read version file with build ID '3709383'
+LogInit: Overriding engine version to CL 3832480, compatible CL 3709383
+LogInit: Registered custom module enumerator with build ID '3709383'
+LogTaskGraph: Started task graph with 5 named threads and 8 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 14.140114
+LogD3D11RHI: Aftermath initialized
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2D.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2DEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperSpriteSheetImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperTiledImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-SmartSnapping.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeRuntime.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/GitSourceControl/Binaries/Win64/UE4Editor-GitSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/PerforceSourceControl/Binaries/Win64/UE4Editor-PerforceSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/SubversionSourceControl/Binaries/Win64/UE4Editor-SubversionSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/UObjectPlugin/Binaries/Win64/UE4Editor-UObjectPlugin.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioCodeSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioCodeSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AssetManagerEditor/Binaries/Win64/UE4Editor-AssetManagerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AudioCapture/Binaries/Win64/UE4Editor-AudioCapture.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimation.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimationEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/GameplayTagsEditor/Binaries/Win64/UE4Editor-GameplayTagsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/MobileLauncherProfileWizard/Binaries/Win64/UE4Editor-MobileLauncherProfileWizard.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/PluginBrowser/Binaries/Win64/UE4Editor-PluginBrowser.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/SpeedTreeImporter/Binaries/Win64/UE4Editor-SpeedTreeImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/CharacterAI/Binaries/Win64/UE4Editor-CharacterAI.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/HTML5Networking/Binaries/Win64/UE4Editor-HTML5Networking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-OpenExrWrapper.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositing.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositingEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaPlayerEditor/Binaries/Win64/UE4Editor-MediaPlayerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/TcpMessaging/Binaries/Win64/UE4Editor-TcpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/UdpMessaging/Binaries/Win64/UE4Editor-UdpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/ActorSequence/Binaries/Win64/UE4Editor-ActorSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/LevelSequenceEditor/Binaries/Win64/UE4Editor-LevelSequenceEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/MatineeToLevelSequence/Binaries/Win64/UE4Editor-MatineeToLevelSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystem/Binaries/Win64/UE4Editor-OnlineSubsystem.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidPermission/Binaries/Win64/UE4Editor-AndroidPermission.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemNull/Binaries/Win64/UE4Editor-OnlineSubsystemNull.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineSubsystemUtils.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineBlueprintSupport.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidDeviceProfileSelector/Binaries/Win64/UE4Editor-AndroidDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AppleARKit/Binaries/Win64/UE4Editor-AppleARKit.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ArchVisCharacter/Binaries/Win64/UE4Editor-ArchVisCharacter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CableComponent/Binaries/Win64/UE4Editor-CableComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CustomMeshComponent/Binaries/Win64/UE4Editor-CustomMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ExampleDeviceProfileSelector/Binaries/Win64/UE4Editor-ExampleDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysics.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysicsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/LocationServicesBPLibrary/Binaries/Win64/UE4Editor-LocationServicesBPLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/MobilePatchingUtils/Binaries/Win64/UE4Editor-MobilePatchingUtils.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusHMD.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusInput.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehicles.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehiclesEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponentEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/RuntimePhysXCooking/Binaries/Win64/UE4Editor-RuntimePhysXCooking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVR.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVRController.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/WindowsMoviePlayer/Binaries/Win64/UE4Editor-WindowsMoviePlayer.dll (API version 3709383).
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleARKit
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit: Build: ++UE4+Release-4.18-CL-3832480
+LogInit: Engine Version: 4.18.3-3832480+++UE4+Release-4.18
+LogInit: Compatible Engine Version: 4.18.0-3709383+++UE4+Release-4.18
+LogInit: Net CL: 3709383
+LogDevObjectVersion: Number of dev versions registered: 16
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 20
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 30
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 0
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 20
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 4
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 0
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 1
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 12
+LogInit: Compiled (64-bit): Jan 12 2018 02:04:55
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.18
+LogInit: Command line: 
+LogInit: Base directory: E:/GameDev/Unreal/Engine/UE_4.18/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2020.08.22-19.29.30:044][  0]LogInit: Selected Device Profile: [Windows]
+[2020.08.22-19.29.30:047][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2020.08.22-19.29.30:439][  0]LogInit: Computer: ISHRAQ-PC
+[2020.08.22-19.29.30:439][  0]LogInit: User: farha
+[2020.08.22-19.29.30:439][  0]LogInit: CPU Page size=4096, Cores=2
+[2020.08.22-19.29.30:439][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2020.08.22-19.29.30:444][  0]LogMemory: Memory total: Physical=3.9GB (4GB approx)
+[2020.08.22-19.29.30:449][  0]LogMemory: Platform Memory Stats for Windows
+[2020.08.22-19.29.30:449][  0]LogMemory: Process Physical Memory: 215.70 MB used, 238.49 MB peak
+[2020.08.22-19.29.30:449][  0]LogMemory: Process Virtual Memory: 269.25 MB used, 269.25 MB peak
+[2020.08.22-19.29.30:449][  0]LogMemory: Physical Memory: 3649.45 MB used,  327.56 MB free, 3977.01 MB total
+[2020.08.22-19.29.30:449][  0]LogMemory: Virtual Memory: 4759.74 MB used,  327.56 MB free, 134217728.00 MB total
+[2020.08.22-19.29.38:643][  0]LogInit: Using OS detected language (en-US).
+[2020.08.22-19.29.38:643][  0]LogInit: Using OS detected locale (en-US).
+[2020.08.22-19.29.39:044][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2020.08.22-19.29.41:318][  0]LogInit: Setting process to per monitor DPI aware
+[2020.08.22-19.29.45:327][  0]LogD3D11RHI: D3D11 adapters:
+[2020.08.22-19.29.45:366][  0]LogD3D11RHI:    0. 'Intel(R) HD Graphics 3000' (Feature Level 10_0)
+[2020.08.22-19.29.45:366][  0]LogD3D11RHI:       32/0/1632 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x8086
+[2020.08.22-19.29.45:416][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2020.08.22-19.29.45:416][  0]LogD3D11RHI:       0/0/1988 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2020.08.22-19.29.45:416][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2020.08.22-19.29.45:426][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2020.08.22-19.29.45:426][  0]LogD3D11RHI:     GPU DeviceId: 0x126 (for the marketing name, search the web for "GPU Device Id")
+[2020.08.22-19.29.45:426][  0]LogWindows: EnumDisplayDevices:
+[2020.08.22-19.29.45:427][  0]LogWindows:    0. 'Intel(R) HD Graphics 3000' (P:1 D:1)
+[2020.08.22-19.29.45:427][  0]LogWindows:    1. 'Intel(R) HD Graphics 3000' (P:0 D:0)
+[2020.08.22-19.29.45:427][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2020.08.22-19.29.45:427][  0]LogD3D11RHI:     Adapter Name: Intel(R) HD Graphics 3000
+[2020.08.22-19.29.45:427][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2020.08.22-19.29.45:427][  0]LogD3D11RHI:      Driver Date: Unknown
+[2020.08.22-19.29.45:427][  0]LogRHI: Texture pool is 593 MB (70% of 848 MB)
+[2020.08.22-19.29.45:432][  0]LogD3D11RHI: Async texture creation enabled
+[2020.08.22-19.29.46:114][  0]LogD3D11RHI: GPU Timing Frequency: 12.500000 (Debug: 2 1)
+[2020.08.22-19.29.46:418][  0]LogShaderCompilers: Guid format shader working directory is 3 characters bigger than the processId version (../../../../../GITHUB/RE_Project/RE_Project/Intermediate/Shaders/WorkingDirectory/5900/).
+[2020.08.22-19.29.46:425][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/farha/AppData/Local/Temp/UnrealShaderWorkingDir/F9CBD9BE462B29BC8F052F889F0E585B/'.
+[2020.08.22-19.29.46:455][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2020.08.22-19.30.03:275][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2020.08.22-19.30.03:365][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2020.08.22-19.30.03:444][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2020.08.22-19.30.03:527][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2020.08.22-19.30.03:850][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2020.08.22-19.30.04:003][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2020.08.22-19.30.04:087][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2020.08.22-19.30.04:210][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2020.08.22-19.30.04:385][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2020.08.22-19.30.04:560][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2020.08.22-19.30.04:745][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2020.08.22-19.30.04:870][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2020.08.22-19.30.04:988][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2020.08.22-19.30.05:145][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2020.08.22-19.30.05:359][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2020.08.22-19.30.05:359][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2020.08.22-19.30.05:556][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.08.22-19.30.05:672][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2020.08.22-19.30.06:223][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2020.08.22-19.30.06:330][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2020.08.22-19.30.06:498][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2020.08.22-19.30.06:651][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2020.08.22-19.30.06:828][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2020.08.22-19.30.06:953][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2020.08.22-19.30.06:968][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2020.08.22-19.30.11:456][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2020.08.22-19.30.31:876][  0]LogDerivedDataCache: Loaded boot cache 20.40s 75MB C:/Users/farha/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2020.08.22-19.30.31:884][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/farha/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc
+[2020.08.22-19.30.31:884][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../GITHUB/RE_Project/RE_Project/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2020.08.22-19.30.31:884][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2020.08.22-19.30.31:884][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../GITHUB/RE_Project/RE_Project/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.08.22-19.30.31:884][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2020.08.22-19.30.32:031][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2020.08.22-19.30.32:471][  0]LogDerivedDataCache: Using Local data cache path C:/Users/farha/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2020.08.22-19.30.32:946][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM4
+[2020.08.22-19.30.33:184][  0]LogSlate: Using Freetype 2.6.0
+[2020.08.22-19.30.33:374][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2020.08.22-19.30.33:389][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2020.08.22-19.30.58:931][  0]LogInit: Selected Device Profile: [Windows]
+[2020.08.22-19.31.04:177][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2020.08.22-19.31.04:376][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2020.08.22-19.31.04:383][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2020.08.22-19.31.04:383][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2020.08.22-19.31.04:383][  0]LogMeshReduction: No automatic mesh merging module available
+[2020.08.22-19.31.04:383][  0]LogMeshMerging: No automatic mesh merging module available
+[2020.08.22-19.31.05:467][  0]LogNetVersion: RE_Project , NetCL: 3709383, EngineNetVer: 2, GameNetVer: 0 (Checksum: 2319942021)
+[2020.08.22-19.31.07:788][  0]LogAssetRegistry: FAssetRegistry took 0.0453 seconds to start up
+[2020.08.22-19.31.19:340][  0]LogPackageLocalizationCache: Processed 7 localized package path(s) for 2 prioritized culture(s) in 2.013395 seconds
+[2020.08.22-19.31.19:893][  0]LogUObjectArray: 35870 objects as part of root set at end of initial load.
+[2020.08.22-19.31.19:893][  0]LogUObjectAllocator: 7363696 out of 0 bytes used by permanent object pool.
+[2020.08.22-19.31.19:893][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2020.08.22-19.31.20:972][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2020.08.22-19.31.57:749][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2020.08.22-19.31.58:051][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2020.08.22-19.32.04:041][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2020.08.22-19.32.06:964][  0]SourceControl: Source control is disabled
+[2020.08.22-19.32.06:999][  0]SourceControl: Source control is disabled
+[2020.08.22-19.32.07:505][  0]SourceControl: Source control is disabled
+[2020.08.22-19.32.07:997][  0]SourceControl: Source control is disabled
+[2020.08.22-19.32.12:570][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2020.08.22-19.32.13:595][  0]LogOcInput: OculusInput pre-init called
+[2020.08.22-19.32.15:615][  0]LogEngine: Initializing Engine...
+[2020.08.22-19.32.15:958][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.08.22-19.32.18:814][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2020.08.22-19.32.18:816][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2020.08.22-19.32.28:764][  0]LogAIModule: Creating AISystem for world Untitled
+[2020.08.22-19.32.29:697][  0]LogInit: XAudio2 using 'Speakers (2- High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.08.22-19.32.29:842][  0]LogInit: FAudioDevice initialized.
+[2020.08.22-19.32.36:417][  0]LogDerivedDataCache: Saved boot cache 6.44s 75MB C:/Users/farha/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2020.08.22-19.32.36:441][  0]LogInit: Texture streaming: Enabled
+[2020.08.22-19.32.37:813][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2020.08.22-19.32.38:885][  0]LogInit: Transaction tracking system initialized
+[2020.08.22-19.32.40:424][  0]BlueprintLog: New page: Editor Load
+[2020.08.22-19.32.46:846][  0]LocalizationService: Localization service is disabled
+[2020.08.22-19.32.54:407][  0]LogConsoleResponse: Display: 
+[2020.08.22-19.32.57:907][  0]LogFileCache: Scanning file cache for directory 'E:/GameDev/Unreal/GITHUB/RE_Project/RE_Project/Content/' took 0.02s
+[2020.08.22-19.32.57:907][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2020.08.22-19.32.57:931][  0]LogCook: Display: Mobile HDR setting 1
+[2020.08.22-19.32.57:936][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2020.08.22-19.33.03:696][  0]SourceControl: Source control is disabled
+[2020.08.22-19.33.03:936][  0]LogFactory: FactoryCreateFile: PackFactory with PackFactory (0 0 E:/GameDev/Unreal/Engine/UE_4.18/FeaturePacks/StarterContent.upack)
+[2020.08.22-19.33.04:116][  0]LogPackFactory: Finished extracting 8 files (including 0 errors).
+[2020.08.22-19.33.04:194][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Floor_400x400.uasset" to "../../../../../GITHUB/RE_Project/RE_Project/Content/StarterContent/Architecture/Floor_400x400.uasset"
+[2020.08.22-19.33.04:223][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Pillar_50x500.uasset" to "../../../../../GITHUB/RE_Project/RE_Project/Content/StarterContent/Architecture/Pillar_50x500.uasset"
+[2020.08.22-19.33.04:275][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/SM_AssetPlatform.uasset" to "../../../../../GITHUB/RE_Project/RE_Project/Content/StarterContent/Architecture/SM_AssetPlatform.uasset"
+[2020.08.22-19.33.04:325][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_400x200.uasset" to "../../../../../GITHUB/RE_Project/RE_Project/Content/StarterContent/Architecture/Wall_400x200.uasset"
+[2020.08.22-19.33.04:392][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_400x300.uasset" to "../../../../../GITHUB/RE_Project/RE_Project/Content/StarterContent/Architecture/Wall_400x300.uasset"
+[2020.08.22-19.33.04:408][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_400x400.uasset" to "../../../../../GITHUB/RE_Project/RE_Project/Content/StarterContent/Architecture/Wall_400x400.uasset"
+[2020.08.22-19.33.04:423][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_500x500.uasset" to "../../../../../GITHUB/RE_Project/RE_Project/Content/StarterContent/Architecture/Wall_500x500.uasset"
+[2020.08.22-19.33.04:438][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Door_400x300.uasset" to "../../../../../GITHUB/RE_Project/RE_Project/Content/StarterContent/Architecture/Wall_Door_400x300.uasset"
+[2020.08.22-19.33.04:473][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Door_400x400.uasset" to "../../../../../GITHUB/RE_Project/RE_Project/Content/StarterContent/Architecture/Wall_Door_400x400.uasset"
+[2020.08.22-19.33.04:487][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Window_400x300.uasset" to "../../../../../GITHUB/RE_Project/RE_Project/Content/StarterContent/Architecture/Wall_Window_400x300.uasset"
+[2020.08.22-19.33.04:502][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Window_400x400.uasset" to "../../../../../GITHUB/RE_Project/RE_Project/Content/StarterContent/Architecture/Wall_Window_400x400.uasset"
+[2020.08.22-19.33.04:829][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Collapse01.uasset" to "../../../../../GITHUB/RE_Project/RE_Project/Content/StarterContent/Audio/Collapse01.uasset"
+[2020.08.22-19.33.04:888][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Collapse02.uasset" to "../../../../../GITHUB/RE_Project/RE_Project/Content/StarterContent/Audio/Collapse02.uasset"
+[2020.08.22-19.33.04:930][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Collapse_Cue.uasset" to "../../../../../GITHUB/RE_Project/RE_Project/Content/StarterContent/Audio/Collapse_Cue.uasset"
+[2020.08.22-19.33.04:970][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Explosion01.uasset" to "../../../../../GITHUB/RE_Project/RE_Project/Content/StarterContent/Audio/Explosion01.uasset"
+[2020.08.22-19.33.05:037][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Explosion02.uasset" to "../../../../../GITHUB/RE_Project/RE_Project/Content/StarterContent/Audio/Explosion02.uasset"
+[2020.08.22-19.33.05:063][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Explosion_Cue.uasset" to "../../../../../GITHUB/RE_Project/RE_Project/Content/StarterContent/Audio/Explosion_Cue.uasset"
+[2020.08.22-19.33.05:083][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire01.uasset" to "../../../../../GITHUB/RE_Project/RE_Project/Content/StarterContent/Audio/Fire01.uasset"
+[2020.08.22-19.33.05:120][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire01_Cue.uasset" to "../../../../../GITHUB/RE_Project/RE_Project/Content/StarterContent/Audio/Fire01_Cue.uasset"
+[2020.08.22-19.33.05:173][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire_Sparks01.uasset" to "../../../../../GITHUB/RE_Project/RE_Project/Content/StarterContent/Audio/Fire_Sparks01.uasset"
+[2020.08.22-19.33.05:189][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire_Sparks01_Cue.uasset" to "../../../../../GITHUB/RE_Project/RE_Project/Content/StarterContent/Audio/Fire_Sparks01_Cue.uasset"
+[2020.08.22-19.33.05:319][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light01.uasset" to "../../../../../GITHUB/RE_Project/RE_Project/Content/StarterContent/Audio/Light01.uasset"
+[2020.08.22-19.33.05:330][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light01_Cue.uasset" to "../../../../../GITHUB/RE_Project/RE_Project/Content/StarterContent/Audio/Light01_Cue.uasset"
+[2020.08.22-19.33.05:407][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light02.uasset" to "../../../../../GITHUB/RE_Project/RE_Project/Content/StarterContent/Audio/Light02.uasset"
+[2020.08.22-19.33.05:443][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light02_Cue.uasset" to "../../../../../GITHUB/RE_Project/RE_Project/Content/StarterContent/Audio/Light02_Cue.uasset"
+[2020.08.22-19.33.05:466][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Smoke01.uasset" to "../../../../../GITHUB/RE_Project/RE_Project/Content/StarterContent/Audio/Smoke01.uasset"
+[2020.08.22-19.33.05:480][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Smoke01_Cue.uasset" to "../../../../../GITHUB/RE_Project/RE_Project/Content/StarterContent/Audio/Smoke01_Cue.uasset"
+[2020.08.22-19.33.05:527][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Background_Cue.uasset" to "../../../../../GITHUB/RE_Project/RE_Project/Content/StarterContent/Audio/Starter_Background_Cue.uasset"
+[2020.08.22-19.33.05:670][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Birds01.uasset" to "../../../../../GITHUB/RE_Project/RE_Project/Content/StarterContent/Audio/Starter_Birds01.uasset"
+[2020.08.22-19.33.05:829][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Music01.uasset" to "../../../../../GITHUB/RE_Project/RE_Project/Content/StarterContent/Audio/Starter_Music01.uasset"
+[2020.08.22-19.33.05:880][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Music_Cue.uasset" to "../../../../../GITHUB/RE_Project/RE_Project/Content/StarterContent/Audio/Starter_Music_Cue.uasset"
+[2020.08.22-19.33.05:947][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Wind05.uasset" to "../../../../../GITHUB/RE_Project/RE_Project/Content/StarterContent/Audio/Starter_Wind05.uasset"
+[2020.08.22-19.33.05:996][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Wind06.uasset" to "../../../../../GITHUB/RE_Project/RE_Project/Content/StarterContent/Audio/Starter_Wind06.uasset"
+[2020.08.22-19.33.06:220][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Steam01.uasset" to "../../../../../GITHUB/RE_Project/RE_Project/Content/StarterContent/Audio/Steam01.uasset"
+[2020.08.22-19.33.06:314][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Steam01_Cue.uasset" to "../../../../../GITHUB/RE_Project/RE_Project/Content/StarterContent/Audio/Steam01_Cue.uasset"
+[2020.08.22-19.33.06:399][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset" to "../../../../../GITHUB/RE_Project/RE_Project/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset"
+[2020.08.22-19.33.06:470][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Explosion.uasset" to "../../../../../GITHUB/RE_Project/RE_Project/Content/StarterContent/Blueprints/Blueprint_Effect_Explosion.uasset"
+[2020.08.22-19.33.06:560][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Fire.uasset" to "../../../../../GITHUB/RE_Project/RE_Project/Content/StarterContent/Blueprints/Blueprint_Effect_Fire.uasset"
+[2020.08.22-19.33.06:718][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Smoke.uasset" to "../../../../../GITHUB/RE_Project/RE_Project/Content/StarterContent/Blueprints/Blueprint_Effect_Smoke.uasset"
+[2020.08.22-19.33.06:787][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Sparks.uasset" to "../../../../../GITHUB/RE_Project/RE_Project/Content/StarterContent/Blueprints/Blueprint_Effect_Sparks.uasset"
+[2020.08.22-19.33.06:835][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Steam.uasset" to "../../../../../GITHUB/RE_Project/RE_Project/Content/StarterContent/Blueprints/Blueprint_Effect_Steam.uasset"
+[2020.08.22-19.33.06:974][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_WallSconce.uasset" to "../../../../../GITHUB/RE_Project/RE_Project/Content/StarterContent/Blueprints/Blueprint_WallSconce.uasset"
+[2020.08.22-19.33.07:033][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/BP_LightStudio.uasset" to "../../../../../GITHUB/RE_Project/RE_Project/Content/StarterContent/Blueprints/BP_LightStudio.uasset"
+[2020.08.22-19.33.07:138][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/FogBrightnessLUT.uasset" to "../../../../../GITHUB/RE_Project/RE_Project/Content/StarterContent/Blueprints/Assets/FogBrightnessLUT.uasset"
+[2020.08.22-19.33.07:180][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Arrows.uasset" to "../../../../../GITHUB/RE_Project/RE_Project/Content/StarterContent/Blueprints/Assets/M_LightStage_Arrows.uasset"
+[2020.08.22-19.33.07:230][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Black.uasset" to "../../../../../GITHUB/RE_Project/RE_Project/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Black.uasset"
+[2020.08.22-19.33.07:359][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_HDRI.uasset" to "../../../../../GITHUB/RE_Project/RE_Project/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_HDRI.uasset"
+[2020.08.22-19.33.07:520][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Master.uasset" to "../../../../../GITHUB/RE_Project/RE_Project/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Master.uasset"
+[2020.08.22-19.33.07:675][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/Skybox.uasset" to "../../../../../GITHUB/RE_Project/RE_Project/Content/StarterContent/Blueprints/Assets/Skybox.uasset"
+[2020.08.22-19.33.07:789][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/SM_Arrows.uasset" to "../../../../../GITHUB/RE_Project/RE_Project/Content/StarterContent/Blueprints/Assets/SM_Arrows.uasset"
+[2020.08.22-19.33.07:930][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/SunlightColorLUT.uasset" to "../../../../../GITHUB/RE_Project/RE_Project/Content/StarterContent/Blueprints/Assets/SunlightColorLUT.uasset"
+[2020.08.22-19.33.20:335][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset" to "../../../../../GITHUB/RE_Project/RE_Project/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset"
+[2020.08.22-19.33.20:446][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Advanced_Lighting.umap" to "../../../../../GITHUB/RE_Project/RE_Project/Content/StarterContent/Maps/Advanced_Lighting.umap"
+[2020.08.22-19.33.20:478][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Advanced_Lighting_BuiltData.uasset" to "../../../../../GITHUB/RE_Project/RE_Project/Content/StarterContent/Maps/Advanced_Lighting_BuiltData.uasset"
+[2020.08.22-19.33.20:606][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Minimal_Default.umap" to "../../../../../GITHUB/RE_Project/RE_Project/Content/StarterContent/Maps/Minimal_Default.umap"
+[2020.08.22-19.33.20:687][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset" to "../../../../../GITHUB/RE_Project/RE_Project/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset"
+[2020.08.22-19.33.20:824][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/StarterMap.umap" to "../../../../../GITHUB/RE_Project/RE_Project/Content/StarterContent/Maps/StarterMap.umap"
+[2020.08.22-19.33.22:121][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/StarterMap_BuiltData.uasset" to "../../../../../GITHUB/RE_Project/RE_Project/Content/StarterContent/Maps/StarterMap_BuiltData.uasset"
+[2020.08.22-19.33.22:215][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_AssetPlatform.uasset" to "../../../../../GITHUB/RE_Project/RE_Project/Content/StarterContent/Materials/M_AssetPlatform.uasset"
+[2020.08.22-19.33.22:231][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Basic_Floor.uasset" to "../../../../../GITHUB/RE_Project/RE_Project/Content/StarterContent/Materials/M_Basic_Floor.uasset"
+[2020.08.22-19.33.22:248][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Basic_Wall.uasset" to "../../../../../GITHUB/RE_Project/RE_Project/Content/StarterContent/Materials/M_Basic_Wall.uasset"
+[2020.08.22-19.33.22:285][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Clay_Beveled.uasset" to "../../../../../GITHUB/RE_Project/RE_Project/Content/StarterContent/Materials/M_Brick_Clay_Beveled.uasset"
+[2020.08.22-19.33.22:303][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Clay_New.uasset" to "../../../../../GITHUB/RE_Project/RE_Project/Content/StarterContent/Materials/M_Brick_Clay_New.uasset"
+[2020.08.22-19.33.22:374][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Clay_Old.uasset" to "../../../../../GITHUB/RE_Project/RE_Project/Content/StarterContent/Materials/M_Brick_Clay_Old.uasset"
+[2020.08.22-19.33.22:388][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Cut_Stone.uasset" to "../../../../../GITHUB/RE_Project/RE_Project/Content/StarterContent/Materials/M_Brick_Cut_Stone.uasset"
+[2020.08.22-19.33.22:455][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Hewn_Stone.uasset" to "../../../../../GITHUB/RE_Project/RE_Project/Content/StarterContent/Materials/M_Brick_Hewn_Stone.uasset"
+[2020.08.22-19.33.22:470][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ceramic_Tile_Checker.uasset" to "../../../../../GITHUB/RE_Project/RE_Project/Content/StarterContent/Materials/M_Ceramic_Tile_Checker.uasset"
+[2020.08.22-19.33.22:508][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_CobbleStone_Pebble.uasset" to "../../../../../GITHUB/RE_Project/RE_Project/Content/StarterContent/Materials/M_CobbleStone_Pebble.uasset"
+[2020.08.22-19.33.22:524][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_CobbleStone_Rough.uasset" to "../../../../../GITHUB/RE_Project/RE_Project/Content/StarterContent/Materials/M_CobbleStone_Rough.uasset"
+[2020.08.22-19.33.22:566][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_CobbleStone_Smooth.uasset" to "../../../../../GITHUB/RE_Project/RE_Project/Content/StarterContent/Materials/M_CobbleStone_Smooth.uasset"
+[2020.08.22-19.33.22:645][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_ColorGrid_LowSpec.uasset" to "../../../../../GITHUB/RE_Project/RE_Project/Content/StarterContent/Materials/M_ColorGrid_LowSpec.uasset"
+[2020.08.22-19.33.22:717][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Grime.uasset" to "../../../../../GITHUB/RE_Project/RE_Project/Content/StarterContent/Materials/M_Concrete_Grime.uasset"
+[2020.08.22-19.33.22:781][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Panels.uasset" to "../../../../../GITHUB/RE_Project/RE_Project/Content/StarterContent/Materials/M_Concrete_Panels.uasset"
+[2020.08.22-19.33.22:819][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Poured.uasset" to "../../../../../GITHUB/RE_Project/RE_Project/Content/StarterContent/Materials/M_Concrete_Poured.uasset"
+[2020.08.22-19.33.22:886][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Tiles.uasset" to "../../../../../GITHUB/RE_Project/RE_Project/Content/StarterContent/Materials/M_Concrete_Tiles.uasset"
+[2020.08.22-19.33.22:979][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Glass.uasset" to "../../../../../GITHUB/RE_Project/RE_Project/Content/StarterContent/Materials/M_Glass.uasset"
+[2020.08.22-19.33.22:994][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ground_Grass.uasset" to "../../../../../GITHUB/RE_Project/RE_Project/Content/StarterContent/Materials/M_Ground_Grass.uasset"
+[2020.08.22-19.33.23:042][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ground_Gravel.uasset" to "../../../../../GITHUB/RE_Project/RE_Project/Content/StarterContent/Materials/M_Ground_Gravel.uasset"
+[2020.08.22-19.33.23:085][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ground_Moss.uasset" to "../../../../../GITHUB/RE_Project/RE_Project/Content/StarterContent/Materials/M_Ground_Moss.uasset"
+[2020.08.22-19.33.23:099][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Brushed_Nickel.uasset" to "../../../../../GITHUB/RE_Project/RE_Project/Content/StarterContent/Materials/M_Metal_Brushed_Nickel.uasset"
+[2020.08.22-19.33.23:122][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Burnished_Steel.uasset" to "../../../../../GITHUB/RE_Project/RE_Project/Content/StarterContent/Materials/M_Metal_Burnished_Steel.uasset"
+[2020.08.22-19.33.23:165][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Chrome.uasset" to "../../../../../GITHUB/RE_Project/RE_Project/Content/StarterContent/Materials/M_Metal_Chrome.uasset"
+[2020.08.22-19.33.23:212][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Copper.uasset" to "../../../../../GITHUB/RE_Project/RE_Project/Content/StarterContent/Materials/M_Metal_Copper.uasset"
+[2020.08.22-19.33.23:248][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Gold.uasset" to "../../../../../GITHUB/RE_Project/RE_Project/Content/StarterContent/Materials/M_Metal_Gold.uasset"
+[2020.08.22-19.33.23:263][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Rust.uasset" to "../../../../../GITHUB/RE_Project/RE_Project/Content/StarterContent/Materials/M_Metal_Rust.uasset"
+[2020.08.22-19.33.23:324][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Steel.uasset" to "../../../../../GITHUB/RE_Project/RE_Project/Content/StarterContent/Materials/M_Metal_Steel.uasset"
+[2020.08.22-19.33.23:356][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Basalt.uasset" to "../../../../../GITHUB/RE_Project/RE_Project/Content/StarterContent/Materials/M_Rock_Basalt.uasset"
+[2020.08.22-19.33.23:382][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Marble_Polished.uasset" to "../../../../../GITHUB/RE_Project/RE_Project/Content/StarterContent/Materials/M_Rock_Marble_Polished.uasset"
+[2020.08.22-19.33.23:423][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Sandstone.uasset" to "../../../../../GITHUB/RE_Project/RE_Project/Content/StarterContent/Materials/M_Rock_Sandstone.uasset"
+[2020.08.22-19.33.23:472][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Slate.uasset" to "../../../../../GITHUB/RE_Project/RE_Project/Content/StarterContent/Materials/M_Rock_Slate.uasset"
+[2020.08.22-19.33.23:548][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Checker_Dot.uasset" to "../../../../../GITHUB/RE_Project/RE_Project/Content/StarterContent/Materials/M_Tech_Checker_Dot.uasset"
+[2020.08.22-19.33.23:564][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Hex_Tile.uasset" to "../../../../../GITHUB/RE_Project/RE_Project/Content/StarterContent/Materials/M_Tech_Hex_Tile.uasset"
+[2020.08.22-19.33.23:581][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Hex_Tile_Pulse.uasset" to "../../../../../GITHUB/RE_Project/RE_Project/Content/StarterContent/Materials/M_Tech_Hex_Tile_Pulse.uasset"
+[2020.08.22-19.33.23:596][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Panel.uasset" to "../../../../../GITHUB/RE_Project/RE_Project/Content/StarterContent/Materials/M_Tech_Panel.uasset"
+[2020.08.22-19.33.23:643][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Water_Lake.uasset" to "../../../../../GITHUB/RE_Project/RE_Project/Content/StarterContent/Materials/M_Water_Lake.uasset"
+[2020.08.22-19.33.23:698][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Water_Ocean.uasset" to "../../../../../GITHUB/RE_Project/RE_Project/Content/StarterContent/Materials/M_Water_Ocean.uasset"
+[2020.08.22-19.33.23:718][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Polished.uasset" to "../../../../../GITHUB/RE_Project/RE_Project/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Polished.uasset"
+[2020.08.22-19.33.23:735][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Worn.uasset" to "../../../../../GITHUB/RE_Project/RE_Project/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Worn.uasset"
+[2020.08.22-19.33.23:804][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Oak.uasset" to "../../../../../GITHUB/RE_Project/RE_Project/Content/StarterContent/Materials/M_Wood_Oak.uasset"
+[2020.08.22-19.33.23:818][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Pine.uasset" to "../../../../../GITHUB/RE_Project/RE_Project/Content/StarterContent/Materials/M_Wood_Pine.uasset"
+[2020.08.22-19.33.23:903][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Walnut.uasset" to "../../../../../GITHUB/RE_Project/RE_Project/Content/StarterContent/Materials/M_Wood_Walnut.uasset"
+[2020.08.22-19.33.23:920][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Ambient_Dust.uasset" to "../../../../../GITHUB/RE_Project/RE_Project/Content/StarterContent/Particles/P_Ambient_Dust.uasset"
+[2020.08.22-19.33.23:937][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Explosion.uasset" to "../../../../../GITHUB/RE_Project/RE_Project/Content/StarterContent/Particles/P_Explosion.uasset"
+[2020.08.22-19.33.23:982][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Fire.uasset" to "../../../../../GITHUB/RE_Project/RE_Project/Content/StarterContent/Particles/P_Fire.uasset"
+[2020.08.22-19.33.24:048][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Smoke.uasset" to "../../../../../GITHUB/RE_Project/RE_Project/Content/StarterContent/Particles/P_Smoke.uasset"
+[2020.08.22-19.33.24:103][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Sparks.uasset" to "../../../../../GITHUB/RE_Project/RE_Project/Content/StarterContent/Particles/P_Sparks.uasset"
+[2020.08.22-19.33.24:128][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Steam_Lit.uasset" to "../../../../../GITHUB/RE_Project/RE_Project/Content/StarterContent/Particles/P_Steam_Lit.uasset"
+[2020.08.22-19.33.24:304][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Burst.uasset" to "../../../../../GITHUB/RE_Project/RE_Project/Content/StarterContent/Particles/Materials/M_Burst.uasset"
+[2020.08.22-19.33.24:350][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Dust_Particle.uasset" to "../../../../../GITHUB/RE_Project/RE_Project/Content/StarterContent/Particles/Materials/M_Dust_Particle.uasset"
+[2020.08.22-19.33.24:406][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_explosion_subUV.uasset" to "../../../../../GITHUB/RE_Project/RE_Project/Content/StarterContent/Particles/Materials/M_explosion_subUV.uasset"
+[2020.08.22-19.33.24:421][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Fire_SubUV.uasset" to "../../../../../GITHUB/RE_Project/RE_Project/Content/StarterContent/Particles/Materials/M_Fire_SubUV.uasset"
+[2020.08.22-19.33.24:459][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/m_flare_01.uasset" to "../../../../../GITHUB/RE_Project/RE_Project/Content/StarterContent/Particles/Materials/m_flare_01.uasset"
+[2020.08.22-19.33.24:518][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Heat_Distortion.uasset" to "../../../../../GITHUB/RE_Project/RE_Project/Content/StarterContent/Particles/Materials/M_Heat_Distortion.uasset"
+[2020.08.22-19.33.24:608][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Radial_Gradient.uasset" to "../../../../../GITHUB/RE_Project/RE_Project/Content/StarterContent/Particles/Materials/M_Radial_Gradient.uasset"
+[2020.08.22-19.33.24:638][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_radial_ramp.uasset" to "../../../../../GITHUB/RE_Project/RE_Project/Content/StarterContent/Particles/Materials/M_radial_ramp.uasset"
+[2020.08.22-19.33.24:671][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_smoke_subUV.uasset" to "../../../../../GITHUB/RE_Project/RE_Project/Content/StarterContent/Particles/Materials/M_smoke_subUV.uasset"
+[2020.08.22-19.33.24:686][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Spark.uasset" to "../../../../../GITHUB/RE_Project/RE_Project/Content/StarterContent/Particles/Materials/M_Spark.uasset"
+[2020.08.22-19.33.24:724][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/MaterialSphere.uasset" to "../../../../../GITHUB/RE_Project/RE_Project/Content/StarterContent/Props/MaterialSphere.uasset"
+[2020.08.22-19.33.24:765][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Bush.uasset" to "../../../../../GITHUB/RE_Project/RE_Project/Content/StarterContent/Props/SM_Bush.uasset"
+[2020.08.22-19.33.24:780][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Chair.uasset" to "../../../../../GITHUB/RE_Project/RE_Project/Content/StarterContent/Props/SM_Chair.uasset"
+[2020.08.22-19.33.24:796][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_CornerFrame.uasset" to "../../../../../GITHUB/RE_Project/RE_Project/Content/StarterContent/Props/SM_CornerFrame.uasset"
+[2020.08.22-19.33.24:836][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Couch.uasset" to "../../../../../GITHUB/RE_Project/RE_Project/Content/StarterContent/Props/SM_Couch.uasset"
+[2020.08.22-19.33.24:898][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Door.uasset" to "../../../../../GITHUB/RE_Project/RE_Project/Content/StarterContent/Props/SM_Door.uasset"
+[2020.08.22-19.33.24:912][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_DoorFrame.uasset" to "../../../../../GITHUB/RE_Project/RE_Project/Content/StarterContent/Props/SM_DoorFrame.uasset"
+[2020.08.22-19.33.24:944][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_GlassWindow.uasset" to "../../../../../GITHUB/RE_Project/RE_Project/Content/StarterContent/Props/SM_GlassWindow.uasset"
+[2020.08.22-19.33.24:990][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Lamp_Ceiling.uasset" to "../../../../../GITHUB/RE_Project/RE_Project/Content/StarterContent/Props/SM_Lamp_Ceiling.uasset"
+[2020.08.22-19.33.25:006][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Lamp_Wall.uasset" to "../../../../../GITHUB/RE_Project/RE_Project/Content/StarterContent/Props/SM_Lamp_Wall.uasset"
+[2020.08.22-19.33.25:083][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_MatPreviewMesh_02.uasset" to "../../../../../GITHUB/RE_Project/RE_Project/Content/StarterContent/Props/SM_MatPreviewMesh_02.uasset"
+[2020.08.22-19.33.25:141][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_PillarFrame.uasset" to "../../../../../GITHUB/RE_Project/RE_Project/Content/StarterContent/Props/SM_PillarFrame.uasset"
+[2020.08.22-19.33.25:157][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_PillarFrame300.uasset" to "../../../../../GITHUB/RE_Project/RE_Project/Content/StarterContent/Props/SM_PillarFrame300.uasset"
+[2020.08.22-19.33.25:173][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Rock.uasset" to "../../../../../GITHUB/RE_Project/RE_Project/Content/StarterContent/Props/SM_Rock.uasset"
+[2020.08.22-19.33.25:230][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Shelf.uasset" to "../../../../../GITHUB/RE_Project/RE_Project/Content/StarterContent/Props/SM_Shelf.uasset"
+[2020.08.22-19.33.25:244][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Stairs.uasset" to "../../../../../GITHUB/RE_Project/RE_Project/Content/StarterContent/Props/SM_Stairs.uasset"
+[2020.08.22-19.33.25:282][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Statue.uasset" to "../../../../../GITHUB/RE_Project/RE_Project/Content/StarterContent/Props/SM_Statue.uasset"
+[2020.08.22-19.33.25:382][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_TableRound.uasset" to "../../../../../GITHUB/RE_Project/RE_Project/Content/StarterContent/Props/SM_TableRound.uasset"
+[2020.08.22-19.33.25:423][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_WindowFrame.uasset" to "../../../../../GITHUB/RE_Project/RE_Project/Content/StarterContent/Props/SM_WindowFrame.uasset"
+[2020.08.22-19.33.25:464][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Bush.uasset" to "../../../../../GITHUB/RE_Project/RE_Project/Content/StarterContent/Props/Materials/M_Bush.uasset"
+[2020.08.22-19.33.25:481][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Chair.uasset" to "../../../../../GITHUB/RE_Project/RE_Project/Content/StarterContent/Props/Materials/M_Chair.uasset"
+[2020.08.22-19.33.25:501][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Door.uasset" to "../../../../../GITHUB/RE_Project/RE_Project/Content/StarterContent/Props/Materials/M_Door.uasset"
+[2020.08.22-19.33.25:524][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Frame.uasset" to "../../../../../GITHUB/RE_Project/RE_Project/Content/StarterContent/Props/Materials/M_Frame.uasset"
+[2020.08.22-19.33.25:602][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Lamp.uasset" to "../../../../../GITHUB/RE_Project/RE_Project/Content/StarterContent/Props/Materials/M_Lamp.uasset"
+[2020.08.22-19.33.25:683][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_MaterialSphere.uasset" to "../../../../../GITHUB/RE_Project/RE_Project/Content/StarterContent/Props/Materials/M_MaterialSphere.uasset"
+[2020.08.22-19.33.25:717][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_MaterialSphere_Plain.uasset" to "../../../../../GITHUB/RE_Project/RE_Project/Content/StarterContent/Props/Materials/M_MaterialSphere_Plain.uasset"
+[2020.08.22-19.33.25:732][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Rock.uasset" to "../../../../../GITHUB/RE_Project/RE_Project/Content/StarterContent/Props/Materials/M_Rock.uasset"
+[2020.08.22-19.33.25:790][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Shelf.uasset" to "../../../../../GITHUB/RE_Project/RE_Project/Content/StarterContent/Props/Materials/M_Shelf.uasset"
+[2020.08.22-19.33.25:806][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Statue.uasset" to "../../../../../GITHUB/RE_Project/RE_Project/Content/StarterContent/Props/Materials/M_Statue.uasset"
+[2020.08.22-19.33.25:856][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_StatueGlass.uasset" to "../../../../../GITHUB/RE_Project/RE_Project/Content/StarterContent/Props/Materials/M_StatueGlass.uasset"
+[2020.08.22-19.33.25:871][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_TableRound.uasset" to "../../../../../GITHUB/RE_Project/RE_Project/Content/StarterContent/Props/Materials/M_TableRound.uasset"
+[2020.08.22-19.33.25:939][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Cone.uasset" to "../../../../../GITHUB/RE_Project/RE_Project/Content/StarterContent/Shapes/Shape_Cone.uasset"
+[2020.08.22-19.33.26:011][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Cube.uasset" to "../../../../../GITHUB/RE_Project/RE_Project/Content/StarterContent/Shapes/Shape_Cube.uasset"
+[2020.08.22-19.33.26:032][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Cylinder.uasset" to "../../../../../GITHUB/RE_Project/RE_Project/Content/StarterContent/Shapes/Shape_Cylinder.uasset"
+[2020.08.22-19.33.26:075][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_NarrowCapsule.uasset" to "../../../../../GITHUB/RE_Project/RE_Project/Content/StarterContent/Shapes/Shape_NarrowCapsule.uasset"
+[2020.08.22-19.33.26:150][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Pipe.uasset" to "../../../../../GITHUB/RE_Project/RE_Project/Content/StarterContent/Shapes/Shape_Pipe.uasset"
+[2020.08.22-19.33.26:191][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Pipe_180.uasset" to "../../../../../GITHUB/RE_Project/RE_Project/Content/StarterContent/Shapes/Shape_Pipe_180.uasset"
+[2020.08.22-19.33.26:230][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Pipe_90.uasset" to "../../../../../GITHUB/RE_Project/RE_Project/Content/StarterContent/Shapes/Shape_Pipe_90.uasset"
+[2020.08.22-19.33.26:272][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Plane.uasset" to "../../../../../GITHUB/RE_Project/RE_Project/Content/StarterContent/Shapes/Shape_Plane.uasset"
+[2020.08.22-19.33.26:294][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_QuadPyramid.uasset" to "../../../../../GITHUB/RE_Project/RE_Project/Content/StarterContent/Shapes/Shape_QuadPyramid.uasset"
+[2020.08.22-19.33.26:313][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Sphere.uasset" to "../../../../../GITHUB/RE_Project/RE_Project/Content/StarterContent/Shapes/Shape_Sphere.uasset"
+[2020.08.22-19.33.26:335][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Torus.uasset" to "../../../../../GITHUB/RE_Project/RE_Project/Content/StarterContent/Shapes/Shape_Torus.uasset"
+[2020.08.22-19.33.26:431][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Trim.uasset" to "../../../../../GITHUB/RE_Project/RE_Project/Content/StarterContent/Shapes/Shape_Trim.uasset"
+[2020.08.22-19.33.26:446][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Trim_90_In.uasset" to "../../../../../GITHUB/RE_Project/RE_Project/Content/StarterContent/Shapes/Shape_Trim_90_In.uasset"
+[2020.08.22-19.33.26:467][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Trim_90_Out.uasset" to "../../../../../GITHUB/RE_Project/RE_Project/Content/StarterContent/Shapes/Shape_Trim_90_Out.uasset"
+[2020.08.22-19.33.26:629][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_TriPyramid.uasset" to "../../../../../GITHUB/RE_Project/RE_Project/Content/StarterContent/Shapes/Shape_TriPyramid.uasset"
+[2020.08.22-19.33.26:710][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Tube.uasset" to "../../../../../GITHUB/RE_Project/RE_Project/Content/StarterContent/Shapes/Shape_Tube.uasset"
+[2020.08.22-19.33.26:790][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Wedge_A.uasset" to "../../../../../GITHUB/RE_Project/RE_Project/Content/StarterContent/Shapes/Shape_Wedge_A.uasset"
+[2020.08.22-19.33.26:948][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Wedge_B.uasset" to "../../../../../GITHUB/RE_Project/RE_Project/Content/StarterContent/Shapes/Shape_Wedge_B.uasset"
+[2020.08.22-19.33.27:011][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_WideCapsule.uasset" to "../../../../../GITHUB/RE_Project/RE_Project/Content/StarterContent/Shapes/Shape_WideCapsule.uasset"
+[2020.08.22-19.33.27:157][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Beveled_D.uasset" to "../../../../../GITHUB/RE_Project/RE_Project/Content/StarterContent/Textures/T_Brick_Clay_Beveled_D.uasset"
+[2020.08.22-19.33.27:297][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Beveled_M.uasset" to "../../../../../GITHUB/RE_Project/RE_Project/Content/StarterContent/Textures/T_Brick_Clay_Beveled_M.uasset"
+[2020.08.22-19.33.27:453][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Beveled_N.uasset" to "../../../../../GITHUB/RE_Project/RE_Project/Content/StarterContent/Textures/T_Brick_Clay_Beveled_N.uasset"
+[2020.08.22-19.33.27:836][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_New_D.uasset" to "../../../../../GITHUB/RE_Project/RE_Project/Content/StarterContent/Textures/T_Brick_Clay_New_D.uasset"
+[2020.08.22-19.33.28:023][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_New_M.uasset" to "../../../../../GITHUB/RE_Project/RE_Project/Content/StarterContent/Textures/T_Brick_Clay_New_M.uasset"
+[2020.08.22-19.33.28:332][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_New_N.uasset" to "../../../../../GITHUB/RE_Project/RE_Project/Content/StarterContent/Textures/T_Brick_Clay_New_N.uasset"
+[2020.08.22-19.33.28:826][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Old_D.uasset" to "../../../../../GITHUB/RE_Project/RE_Project/Content/StarterContent/Textures/T_Brick_Clay_Old_D.uasset"
+[2020.08.22-19.33.32:149][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Old_N.uasset" to "../../../../../GITHUB/RE_Project/RE_Project/Content/StarterContent/Textures/T_Brick_Clay_Old_N.uasset"
+[2020.08.22-19.33.32:399][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Cut_Stone_D.uasset" to "../../../../../GITHUB/RE_Project/RE_Project/Content/StarterContent/Textures/T_Brick_Cut_Stone_D.uasset"
+[2020.08.22-19.33.32:617][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Cut_Stone_N.uasset" to "../../../../../GITHUB/RE_Project/RE_Project/Content/StarterContent/Textures/T_Brick_Cut_Stone_N.uasset"
+[2020.08.22-19.33.32:742][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Hewn_Stone_D.uasset" to "../../../../../GITHUB/RE_Project/RE_Project/Content/StarterContent/Textures/T_Brick_Hewn_Stone_D.uasset"
+[2020.08.22-19.33.32:926][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Hewn_Stone_M.uasset" to "../../../../../GITHUB/RE_Project/RE_Project/Content/StarterContent/Textures/T_Brick_Hewn_Stone_M.uasset"
+[2020.08.22-19.33.41:499][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Hewn_Stone_N.uasset" to "../../../../../GITHUB/RE_Project/RE_Project/Content/StarterContent/Textures/T_Brick_Hewn_Stone_N.uasset"
+[2020.08.22-19.33.41:921][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Burst_M.uasset" to "../../../../../GITHUB/RE_Project/RE_Project/Content/StarterContent/Textures/T_Burst_M.uasset"
+[2020.08.22-19.33.42:116][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Bush_D.uasset" to "../../../../../GITHUB/RE_Project/RE_Project/Content/StarterContent/Textures/T_Bush_D.uasset"
+[2020.08.22-19.33.43:315][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Bush_N.uasset" to "../../../../../GITHUB/RE_Project/RE_Project/Content/StarterContent/Textures/T_Bush_N.uasset"
+[2020.08.22-19.33.43:564][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ceramic_Tile_M.uasset" to "../../../../../GITHUB/RE_Project/RE_Project/Content/StarterContent/Textures/T_Ceramic_Tile_M.uasset"
+[2020.08.22-19.33.44:187][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ceramic_Tile_N.uasset" to "../../../../../GITHUB/RE_Project/RE_Project/Content/StarterContent/Textures/T_Ceramic_Tile_N.uasset"
+[2020.08.22-19.33.44:787][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Chair_M.uasset" to "../../../../../GITHUB/RE_Project/RE_Project/Content/StarterContent/Textures/T_Chair_M.uasset"
+[2020.08.22-19.33.44:935][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Chair_N.uasset" to "../../../../../GITHUB/RE_Project/RE_Project/Content/StarterContent/Textures/T_Chair_N.uasset"
+[2020.08.22-19.33.45:509][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Checker_Noise_M.uasset" to "../../../../../GITHUB/RE_Project/RE_Project/Content/StarterContent/Textures/T_Checker_Noise_M.uasset"
+[2020.08.22-19.34.00:970][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Pebble_D.uasset" to "../../../../../GITHUB/RE_Project/RE_Project/Content/StarterContent/Textures/T_CobbleStone_Pebble_D.uasset"
+[2020.08.22-19.34.01:104][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Pebble_M.uasset" to "../../../../../GITHUB/RE_Project/RE_Project/Content/StarterContent/Textures/T_CobbleStone_Pebble_M.uasset"
+[2020.08.22-19.34.01:454][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Pebble_N.uasset" to "../../../../../GITHUB/RE_Project/RE_Project/Content/StarterContent/Textures/T_CobbleStone_Pebble_N.uasset"
+[2020.08.22-19.34.05:023][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Rough_D.uasset" to "../../../../../GITHUB/RE_Project/RE_Project/Content/StarterContent/Textures/T_CobbleStone_Rough_D.uasset"
+[2020.08.22-19.34.05:548][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Rough_N.uasset" to "../../../../../GITHUB/RE_Project/RE_Project/Content/StarterContent/Textures/T_CobbleStone_Rough_N.uasset"
+[2020.08.22-19.34.05:916][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Smooth_D.uasset" to "../../../../../GITHUB/RE_Project/RE_Project/Content/StarterContent/Textures/T_CobbleStone_Smooth_D.uasset"
+[2020.08.22-19.34.11:629][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Smooth_M.uasset" to "../../../../../GITHUB/RE_Project/RE_Project/Content/StarterContent/Textures/T_CobbleStone_Smooth_M.uasset"
+[2020.08.22-19.34.18:130][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Smooth_N.uasset" to "../../../../../GITHUB/RE_Project/RE_Project/Content/StarterContent/Textures/T_CobbleStone_Smooth_N.uasset"
+[2020.08.22-19.34.19:091][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Grime_D.uasset" to "../../../../../GITHUB/RE_Project/RE_Project/Content/StarterContent/Textures/T_Concrete_Grime_D.uasset"
+[2020.08.22-19.34.19:818][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Panels_D.uasset" to "../../../../../GITHUB/RE_Project/RE_Project/Content/StarterContent/Textures/T_Concrete_Panels_D.uasset"
+[2020.08.22-19.34.22:706][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Panels_N.uasset" to "../../../../../GITHUB/RE_Project/RE_Project/Content/StarterContent/Textures/T_Concrete_Panels_N.uasset"
+[2020.08.22-19.34.23:140][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Poured_D.uasset" to "../../../../../GITHUB/RE_Project/RE_Project/Content/StarterContent/Textures/T_Concrete_Poured_D.uasset"
+[2020.08.22-19.34.23:891][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Poured_N.uasset" to "../../../../../GITHUB/RE_Project/RE_Project/Content/StarterContent/Textures/T_Concrete_Poured_N.uasset"
+[2020.08.22-19.34.24:469][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_D.uasset" to "../../../../../GITHUB/RE_Project/RE_Project/Content/StarterContent/Textures/T_Concrete_Tiles_D.uasset"
+[2020.08.22-19.34.24:770][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_M.uasset" to "../../../../../GITHUB/RE_Project/RE_Project/Content/StarterContent/Textures/T_Concrete_Tiles_M.uasset"
+[2020.08.22-19.34.24:958][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_N.uasset" to "../../../../../GITHUB/RE_Project/RE_Project/Content/StarterContent/Textures/T_Concrete_Tiles_N.uasset"
+[2020.08.22-19.34.25:008][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_Variation_M.uasset" to "../../../../../GITHUB/RE_Project/RE_Project/Content/StarterContent/Textures/T_Concrete_Tiles_Variation_M.uasset"
+[2020.08.22-19.34.25:083][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Detail_Rocky_N.uasset" to "../../../../../GITHUB/RE_Project/RE_Project/Content/StarterContent/Textures/T_Detail_Rocky_N.uasset"
+[2020.08.22-19.34.25:170][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Door_M.uasset" to "../../../../../GITHUB/RE_Project/RE_Project/Content/StarterContent/Textures/T_Door_M.uasset"
+[2020.08.22-19.34.25:250][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Door_N.uasset" to "../../../../../GITHUB/RE_Project/RE_Project/Content/StarterContent/Textures/T_Door_N.uasset"
+[2020.08.22-19.34.25:296][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Dust_Particle_D.uasset" to "../../../../../GITHUB/RE_Project/RE_Project/Content/StarterContent/Textures/T_Dust_Particle_D.uasset"
+[2020.08.22-19.34.25:367][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Explosion_SubUV.uasset" to "../../../../../GITHUB/RE_Project/RE_Project/Content/StarterContent/Textures/T_Explosion_SubUV.uasset"
+[2020.08.22-19.34.25:590][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Fire_SubUV.uasset" to "../../../../../GITHUB/RE_Project/RE_Project/Content/StarterContent/Textures/T_Fire_SubUV.uasset"
+[2020.08.22-19.34.25:821][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Fire_Tiled_D.uasset" to "../../../../../GITHUB/RE_Project/RE_Project/Content/StarterContent/Textures/T_Fire_Tiled_D.uasset"
+[2020.08.22-19.34.26:118][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Frame_M.uasset" to "../../../../../GITHUB/RE_Project/RE_Project/Content/StarterContent/Textures/T_Frame_M.uasset"
+[2020.08.22-19.34.26:455][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Frame_N.uasset" to "../../../../../GITHUB/RE_Project/RE_Project/Content/StarterContent/Textures/T_Frame_N.uasset"
+[2020.08.22-19.34.27:151][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Gradinet_01.uasset" to "../../../../../GITHUB/RE_Project/RE_Project/Content/StarterContent/Textures/T_Gradinet_01.uasset"
+[2020.08.22-19.34.30:686][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Grass_D.uasset" to "../../../../../GITHUB/RE_Project/RE_Project/Content/StarterContent/Textures/T_Ground_Grass_D.uasset"
+[2020.08.22-19.34.30:974][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Grass_N.uasset" to "../../../../../GITHUB/RE_Project/RE_Project/Content/StarterContent/Textures/T_Ground_Grass_N.uasset"
+[2020.08.22-19.34.31:191][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Gravel_D.uasset" to "../../../../../GITHUB/RE_Project/RE_Project/Content/StarterContent/Textures/T_Ground_Gravel_D.uasset"
+[2020.08.22-19.34.31:528][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Gravel_N.uasset" to "../../../../../GITHUB/RE_Project/RE_Project/Content/StarterContent/Textures/T_Ground_Gravel_N.uasset"
+[2020.08.22-19.34.31:790][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_ground_Moss_D.uasset" to "../../../../../GITHUB/RE_Project/RE_Project/Content/StarterContent/Textures/T_ground_Moss_D.uasset"
+[2020.08.22-19.34.34:413][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Moss_N.uasset" to "../../../../../GITHUB/RE_Project/RE_Project/Content/StarterContent/Textures/T_Ground_Moss_N.uasset"
+[2020.08.22-19.34.34:458][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Lamp_M.uasset" to "../../../../../GITHUB/RE_Project/RE_Project/Content/StarterContent/Textures/T_Lamp_M.uasset"
+[2020.08.22-19.34.34:547][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Lamp_N.uasset" to "../../../../../GITHUB/RE_Project/RE_Project/Content/StarterContent/Textures/T_Lamp_N.uasset"
+[2020.08.22-19.34.34:899][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_MacroVariation.uasset" to "../../../../../GITHUB/RE_Project/RE_Project/Content/StarterContent/Textures/T_MacroVariation.uasset"
+[2020.08.22-19.34.36:232][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Aluminum_D.uasset" to "../../../../../GITHUB/RE_Project/RE_Project/Content/StarterContent/Textures/T_Metal_Aluminum_D.uasset"
+[2020.08.22-19.34.37:168][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Copper_D.uasset" to "../../../../../GITHUB/RE_Project/RE_Project/Content/StarterContent/Textures/T_Metal_Copper_D.uasset"
+[2020.08.22-19.34.37:581][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Gold_D.uasset" to "../../../../../GITHUB/RE_Project/RE_Project/Content/StarterContent/Textures/T_Metal_Gold_D.uasset"
+[2020.08.22-19.34.37:915][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Gold_N.uasset" to "../../../../../GITHUB/RE_Project/RE_Project/Content/StarterContent/Textures/T_Metal_Gold_N.uasset"
+[2020.08.22-19.34.38:147][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Rust_D.uasset" to "../../../../../GITHUB/RE_Project/RE_Project/Content/StarterContent/Textures/T_Metal_Rust_D.uasset"
+[2020.08.22-19.34.38:279][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Rust_N.uasset" to "../../../../../GITHUB/RE_Project/RE_Project/Content/StarterContent/Textures/T_Metal_Rust_N.uasset"
+[2020.08.22-19.34.38:444][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Steel_D.uasset" to "../../../../../GITHUB/RE_Project/RE_Project/Content/StarterContent/Textures/T_Metal_Steel_D.uasset"
+[2020.08.22-19.34.38:702][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Steel_N.uasset" to "../../../../../GITHUB/RE_Project/RE_Project/Content/StarterContent/Textures/T_Metal_Steel_N.uasset"
+[2020.08.22-19.34.39:102][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Perlin_Noise_M.uasset" to "../../../../../GITHUB/RE_Project/RE_Project/Content/StarterContent/Textures/T_Perlin_Noise_M.uasset"
+[2020.08.22-19.34.39:783][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_RockMesh_M.uasset" to "../../../../../GITHUB/RE_Project/RE_Project/Content/StarterContent/Textures/T_RockMesh_M.uasset"
+[2020.08.22-19.34.39:909][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_RockMesh_N.uasset" to "../../../../../GITHUB/RE_Project/RE_Project/Content/StarterContent/Textures/T_RockMesh_N.uasset"
+[2020.08.22-19.34.40:963][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Basalt_D.uasset" to "../../../../../GITHUB/RE_Project/RE_Project/Content/StarterContent/Textures/T_Rock_Basalt_D.uasset"
+[2020.08.22-19.34.42:149][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Basalt_N.uasset" to "../../../../../GITHUB/RE_Project/RE_Project/Content/StarterContent/Textures/T_Rock_Basalt_N.uasset"
+[2020.08.22-19.34.42:276][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Marble_Polished_D.uasset" to "../../../../../GITHUB/RE_Project/RE_Project/Content/StarterContent/Textures/T_Rock_Marble_Polished_D.uasset"
+[2020.08.22-19.34.42:459][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Sandstone_D.uasset" to "../../../../../GITHUB/RE_Project/RE_Project/Content/StarterContent/Textures/T_Rock_Sandstone_D.uasset"
+[2020.08.22-19.34.42:670][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Sandstone_N.uasset" to "../../../../../GITHUB/RE_Project/RE_Project/Content/StarterContent/Textures/T_Rock_Sandstone_N.uasset"
+[2020.08.22-19.34.44:654][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Slate_D.uasset" to "../../../../../GITHUB/RE_Project/RE_Project/Content/StarterContent/Textures/T_Rock_Slate_D.uasset"
+[2020.08.22-19.34.45:148][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Slate_N.uasset" to "../../../../../GITHUB/RE_Project/RE_Project/Content/StarterContent/Textures/T_Rock_Slate_N.uasset"
+[2020.08.22-19.34.45:339][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Smooth_Granite_D.uasset" to "../../../../../GITHUB/RE_Project/RE_Project/Content/StarterContent/Textures/T_Rock_Smooth_Granite_D.uasset"
+[2020.08.22-19.34.45:537][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Shelf_M.uasset" to "../../../../../GITHUB/RE_Project/RE_Project/Content/StarterContent/Textures/T_Shelf_M.uasset"
+[2020.08.22-19.34.45:821][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Shelf_N.uasset" to "../../../../../GITHUB/RE_Project/RE_Project/Content/StarterContent/Textures/T_Shelf_N.uasset"
+[2020.08.22-19.34.45:885][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Single_Tile_N.uasset" to "../../../../../GITHUB/RE_Project/RE_Project/Content/StarterContent/Textures/T_Single_Tile_N.uasset"
+[2020.08.22-19.34.45:957][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Smoke_SubUV.uasset" to "../../../../../GITHUB/RE_Project/RE_Project/Content/StarterContent/Textures/T_Smoke_SubUV.uasset"
+[2020.08.22-19.34.46:192][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Smoke_Tiled_D.uasset" to "../../../../../GITHUB/RE_Project/RE_Project/Content/StarterContent/Textures/T_Smoke_Tiled_D.uasset"
+[2020.08.22-19.34.47:152][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Spark_Core.uasset" to "../../../../../GITHUB/RE_Project/RE_Project/Content/StarterContent/Textures/T_Spark_Core.uasset"
+[2020.08.22-19.34.47:321][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Statue_M.uasset" to "../../../../../GITHUB/RE_Project/RE_Project/Content/StarterContent/Textures/T_Statue_M.uasset"
+[2020.08.22-19.34.47:374][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Statue_N.uasset" to "../../../../../GITHUB/RE_Project/RE_Project/Content/StarterContent/Textures/T_Statue_N.uasset"
+[2020.08.22-19.34.47:537][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_TableRound_M.uasset" to "../../../../../GITHUB/RE_Project/RE_Project/Content/StarterContent/Textures/T_TableRound_M.uasset"
+[2020.08.22-19.34.47:847][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_TableRound_N.uasset" to "../../../../../GITHUB/RE_Project/RE_Project/Content/StarterContent/Textures/T_TableRound_N.uasset"
+[2020.08.22-19.34.47:885][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Dot_M.uasset" to "../../../../../GITHUB/RE_Project/RE_Project/Content/StarterContent/Textures/T_Tech_Dot_M.uasset"
+[2020.08.22-19.34.47:990][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Dot_N.uasset" to "../../../../../GITHUB/RE_Project/RE_Project/Content/StarterContent/Textures/T_Tech_Dot_N.uasset"
+[2020.08.22-19.34.48:063][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Hex_Tile_M.uasset" to "../../../../../GITHUB/RE_Project/RE_Project/Content/StarterContent/Textures/T_Tech_Hex_Tile_M.uasset"
+[2020.08.22-19.34.48:150][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Hex_Tile_N.uasset" to "../../../../../GITHUB/RE_Project/RE_Project/Content/StarterContent/Textures/T_Tech_Hex_Tile_N.uasset"
+[2020.08.22-19.34.48:204][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Panel_M.uasset" to "../../../../../GITHUB/RE_Project/RE_Project/Content/StarterContent/Textures/T_Tech_Panel_M.uasset"
+[2020.08.22-19.34.48:314][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Panel_N.uasset" to "../../../../../GITHUB/RE_Project/RE_Project/Content/StarterContent/Textures/T_Tech_Panel_N.uasset"
+[2020.08.22-19.34.48:849][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Water_M.uasset" to "../../../../../GITHUB/RE_Project/RE_Project/Content/StarterContent/Textures/T_Water_M.uasset"
+[2020.08.22-19.34.48:922][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Water_N.uasset" to "../../../../../GITHUB/RE_Project/RE_Project/Content/StarterContent/Textures/T_Water_N.uasset"
+[2020.08.22-19.34.49:637][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Floor_Walnut_D.uasset" to "../../../../../GITHUB/RE_Project/RE_Project/Content/StarterContent/Textures/T_Wood_Floor_Walnut_D.uasset"
+[2020.08.22-19.34.49:734][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Floor_Walnut_M.uasset" to "../../../../../GITHUB/RE_Project/RE_Project/Content/StarterContent/Textures/T_Wood_Floor_Walnut_M.uasset"
+[2020.08.22-19.34.49:864][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Floor_Walnut_N.uasset" to "../../../../../GITHUB/RE_Project/RE_Project/Content/StarterContent/Textures/T_Wood_Floor_Walnut_N.uasset"
+[2020.08.22-19.34.50:083][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Oak_D.uasset" to "../../../../../GITHUB/RE_Project/RE_Project/Content/StarterContent/Textures/T_Wood_Oak_D.uasset"
+[2020.08.22-19.34.50:233][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Oak_N.uasset" to "../../../../../GITHUB/RE_Project/RE_Project/Content/StarterContent/Textures/T_Wood_Oak_N.uasset"
+[2020.08.22-19.34.50:808][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Pine_D.uasset" to "../../../../../GITHUB/RE_Project/RE_Project/Content/StarterContent/Textures/T_Wood_Pine_D.uasset"
+[2020.08.22-19.34.50:999][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Pine_N.uasset" to "../../../../../GITHUB/RE_Project/RE_Project/Content/StarterContent/Textures/T_Wood_Pine_N.uasset"
+[2020.08.22-19.34.51:333][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Walnut_D.uasset" to "../../../../../GITHUB/RE_Project/RE_Project/Content/StarterContent/Textures/T_Wood_Walnut_D.uasset"
+[2020.08.22-19.34.53:613][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Walnut_N.uasset" to "../../../../../GITHUB/RE_Project/RE_Project/Content/StarterContent/Textures/T_Wood_Walnut_N.uasset"
+[2020.08.22-19.34.57:784][  0]LogRenderer: Reallocating scene render targets to support 256x256 Format 9 NumSamples 1 (Frame:1).
+[2020.08.22-19.35.00:252][  0]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/Architecture/Floor_400x400" FILE="../../../../../GITHUB/RE_Project/RE_Project/Content/StarterContent/Architecture/Floor_400x400.uasset" SILENT=true
+[2020.08.22-19.35.00:683][  0]LogSavePackage: Save=289.02ms
+[2020.08.22-19.35.00:683][  0]LogSavePackage: Moving '../../../../../GITHUB/RE_Project/RE_Project/Saved/Floor_400x400BE8517354ED5353B4F1D4D924E429320.tmp' to '../../../../../GITHUB/RE_Project/RE_Project/Content/StarterContent/Architecture/Floor_400x400.uasset'
+[2020.08.22-19.35.00:759][  0]LogSavePackage: Display: Finished SavePackage ../../../../../GITHUB/RE_Project/RE_Project/Content/StarterContent/Architecture/Floor_400x400.uasset
+[2020.08.22-19.35.00:759][  0]LogFeaturePack: Warning: Inserted 1 feature packs
+[2020.08.22-19.35.00:844][  0]Cmd: MAP LOAD FILE="../../../../../GITHUB/RE_Project/RE_Project/Content/StarterContent/Maps/Minimal_Default.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=2
+[2020.08.22-19.35.01:103][  0]LightingResults: New page: Lighting Build
+[2020.08.22-19.35.03:020][  0]MapCheck: New page: Map Check
+[2020.08.22-19.35.03:020][  0]LightingResults: New page: Lighting Build
+[2020.08.22-19.35.10:239][  0]LogAIModule: Creating AISystem for world Minimal_Default
+[2020.08.22-19.35.11:044][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.08.22-19.35.11:582][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.08.22-19.35.11:811][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 218.287ms to complete.
+[2020.08.22-19.35.11:811][  0]LogFileHelpers: Loading map 'Minimal_Default' took 10.994
+[2020.08.22-19.35.30:987][  0]LogCollectionManager: Loaded 0 collections in 0.003607 seconds
+[2020.08.22-19.35.55:490][  0]LogFileCache: Scanning file cache for directory 'E:/GameDev/Unreal/GITHUB/RE_Project/RE_Project/Saved/Collections/' took 0.01s
+[2020.08.22-19.35.55:490][  0]LogFileCache: Scanning file cache for directory 'E:/GameDev/Unreal/GITHUB/RE_Project/RE_Project/Content/Developers/farha/Collections/' took 0.03s
+[2020.08.22-19.35.55:490][  0]LogFileCache: Scanning file cache for directory 'E:/GameDev/Unreal/GITHUB/RE_Project/RE_Project/Content/Collections/' took 0.01s
+[2020.08.22-19.35.55:490][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2020.08.22-19.35.55:941][  0]LogContentBrowser: Native class hierarchy populated in 0.1829 seconds. Added 2364 classes and 521 folders.
+[2020.08.22-19.35.58:050][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2020.08.22-19.36.05:565][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2020.08.22-19.36.06:122][  0]LogSlate: Took 0.033626 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2020.08.22-19.36.08:268][  0]LogSlate: Took 0.070449 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2020.08.22-19.36.10:079][  0]LogRenderer: Reallocating scene render targets to support 1016x624 Format 9 NumSamples 1 (Frame:1).
+[2020.08.22-19.36.13:149][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0004 seconds. Added 1 classes and 2 folders.
+[2020.08.22-19.36.13:149][  0]LogLoad: (Engine Initialization) Total time: 460.87 seconds
+[2020.08.22-19.36.13:149][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2020.08.22-19.36.13:746][  0]LogExternalProfiler: No external profilers were discovered.  External profiling features will not be available.
+[2020.08.22-19.36.31:688][  0]LogContentStreaming: Texture pool size now 400 MB
+[2020.08.22-19.36.46:167][ 16]LogAssetRegistry: Asset discovery search completed in 338.4015 seconds
+[2020.08.22-19.36.46:217][ 16]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
+[2020.08.22-19.36.46:218][ 16]LogCollectionManager: Fixed up redirectors for 0 collections in 0.005307 seconds (updated 0 objects)
+[2020.08.22-19.37.40:454][727]LogRenderer: Reallocating scene render targets to support 1016x656 Format 9 NumSamples 1 (Frame:75).
+[2020.08.22-19.37.55:917][842]LogSlate: Took 0.211936 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2020.08.22-19.37.56:044][842]LogSlate: Took 0.008473 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2020.08.22-19.38.05:063][140]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2020.08.22-19.38.07:270][141]Cmd: QUIT_EDITOR
+[2020.08.22-19.38.08:790][141]LogExit: Preparing to exit.
+[2020.08.22-19.38.12:887][141]LogDirectoryWatcher: A directory notification for 'E:/GameDev/Unreal/GITHUB/RE_Project/RE_Project/Content/' was aborted.
+[2020.08.22-19.38.15:224][141]LogExit: Editor shut down
+[2020.08.22-19.38.15:229][141]LogExit: Transaction tracking system shut down
+[2020.08.22-19.38.16:570][141]LogDirectoryWatcher: A directory notification for '../../../Engine/Content/' was aborted.
+[2020.08.22-19.38.16:570][141]LogDirectoryWatcher: A directory notification for '../../../../../GITHUB/RE_Project/RE_Project/Content/' was aborted.
+[2020.08.22-19.38.16:570][141]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/2D/Paper2D/Content/' was aborted.
+[2020.08.22-19.38.16:570][141]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Media/MediaCompositing/Content/' was aborted.
+[2020.08.22-19.38.16:570][141]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/AppleARKit/Content/' was aborted.
+[2020.08.22-19.38.16:570][141]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/' was aborted.
+[2020.08.22-19.38.16:570][141]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/Steam/SteamVR/Content/' was aborted.
+[2020.08.22-19.38.22:408][141]LogExit: Object subsystem successfully closed.
+[2020.08.22-19.38.24:077][141]LogD3D11RHI: Shutdown
+[2020.08.22-19.38.24:078][141]LogD3D11RHI: CleanupD3DDevice
+[2020.08.22-19.38.24:703][141]LogD3D11RHI: ~FD3D11DynamicRHI
+[2020.08.22-19.38.26:298][141]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (548)
+[2020.08.22-19.38.26:298][141]LogModuleManager: Shutting down and abandoning module AddContentDialog (546)
+[2020.08.22-19.38.26:312][141]LogDirectoryWatcher: A directory notification for 'E:/GameDev/Unreal/Engine/UE_4.18/FeaturePacks/' was aborted.
+[2020.08.22-19.38.26:323][141]LogModuleManager: Shutting down and abandoning module WidgetCarousel (545)
+[2020.08.22-19.38.26:323][141]LogModuleManager: Shutting down and abandoning module EditorWidgets (542)
+[2020.08.22-19.38.26:323][141]LogModuleManager: Shutting down and abandoning module CollectionManager (540)
+[2020.08.22-19.38.26:333][141]LogDirectoryWatcher: A directory notification for 'E:/GameDev/Unreal/GITHUB/RE_Project/RE_Project/Content/Collections/' was aborted.
+[2020.08.22-19.38.26:333][141]LogDirectoryWatcher: A directory notification for 'E:/GameDev/Unreal/GITHUB/RE_Project/RE_Project/Content/Developers/farha/Collections/' was aborted.
+[2020.08.22-19.38.26:333][141]LogDirectoryWatcher: A directory notification for 'E:/GameDev/Unreal/GITHUB/RE_Project/RE_Project/Saved/Collections/' was aborted.
+[2020.08.22-19.38.26:333][141]LogModuleManager: Shutting down and abandoning module SceneOutliner (538)
+[2020.08.22-19.38.26:344][141]LogModuleManager: Shutting down and abandoning module StatsViewer (536)
+[2020.08.22-19.38.26:359][141]LogModuleManager: Shutting down and abandoning module FoliageEdit (534)
+[2020.08.22-19.38.26:359][141]LogModuleManager: Shutting down and abandoning module LandscapeEditor (532)
+[2020.08.22-19.38.26:418][141]LogModuleManager: Shutting down and abandoning module MeshPaintMode (530)
+[2020.08.22-19.38.26:430][141]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (528)
+[2020.08.22-19.38.26:430][141]LogModuleManager: Shutting down and abandoning module ActorPickerMode (526)
+[2020.08.22-19.38.26:430][141]LogModuleManager: Shutting down and abandoning module GeometryMode (524)
+[2020.08.22-19.38.26:437][141]LogModuleManager: Shutting down and abandoning module TextureAlignMode (522)
+[2020.08.22-19.38.26:437][141]LogModuleManager: Shutting down and abandoning module BspMode (520)
+[2020.08.22-19.38.26:451][141]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (518)
+[2020.08.22-19.38.26:452][141]LogModuleManager: Shutting down and abandoning module HardwareSurvey (516)
+[2020.08.22-19.38.26:461][141]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (514)
+[2020.08.22-19.38.26:462][141]LogModuleManager: Shutting down and abandoning module AutomationWorker (512)
+[2020.08.22-19.38.26:479][141]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (510)
+[2020.08.22-19.38.26:485][141]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (508)
+[2020.08.22-19.38.26:600][141]LogModuleManager: Shutting down and abandoning module PlacementMode (507)
+[2020.08.22-19.38.26:600][141]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (504)
+[2020.08.22-19.38.26:600][141]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (502)
+[2020.08.22-19.38.26:600][141]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (500)
+[2020.08.22-19.38.26:600][141]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (498)
+[2020.08.22-19.38.26:600][141]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (496)
+[2020.08.22-19.38.26:615][141]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (494)
+[2020.08.22-19.38.26:615][141]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (492)
+[2020.08.22-19.38.26:615][141]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (490)
+[2020.08.22-19.38.26:615][141]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (488)
+[2020.08.22-19.38.26:615][141]LogModuleManager: Shutting down and abandoning module CharacterAI (486)
+[2020.08.22-19.38.26:615][141]LogModuleManager: Shutting down and abandoning module AudioCapture (484)
+[2020.08.22-19.38.26:630][141]LogModuleManager: Shutting down and abandoning module SequenceRecorder (483)
+[2020.08.22-19.38.26:638][141]LogModuleManager: Shutting down and abandoning module SmartSnapping (480)
+[2020.08.22-19.38.26:638][141]LogModuleManager: Shutting down and abandoning module SessionServices (478)
+[2020.08.22-19.38.26:638][141]LogModuleManager: Shutting down and abandoning module ViewportSnapping (476)
+[2020.08.22-19.38.26:638][141]LogModuleManager: Shutting down and abandoning module ViewportInteraction (474)
+[2020.08.22-19.38.26:638][141]LogModuleManager: Shutting down and abandoning module ClothPainter (472)
+[2020.08.22-19.38.26:689][141]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (471)
+[2020.08.22-19.38.26:701][141]LogModuleManager: Shutting down and abandoning module LogVisualizer (468)
+[2020.08.22-19.38.26:730][141]LogModuleManager: Shutting down and abandoning module IntroTutorials (466)
+[2020.08.22-19.38.26:763][141]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (465)
+[2020.08.22-19.38.26:785][141]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (462)
+[2020.08.22-19.38.26:795][141]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (460)
+[2020.08.22-19.38.26:795][141]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (458)
+[2020.08.22-19.38.26:795][141]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (457)
+[2020.08.22-19.38.27:312][141]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (454)
+[2020.08.22-19.38.27:312][141]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (452)
+[2020.08.22-19.38.27:313][141]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (450)
+[2020.08.22-19.38.27:313][141]LogModuleManager: Shutting down and abandoning module InputBindingEditor (448)
+[2020.08.22-19.38.27:313][141]LogModuleManager: Shutting down and abandoning module MergeActors (446)
+[2020.08.22-19.38.27:336][141]LogModuleManager: Shutting down and abandoning module SizeMap (444)
+[2020.08.22-19.38.27:379][141]LogModuleManager: Shutting down and abandoning module TreeMap (442)
+[2020.08.22-19.38.27:402][141]LogModuleManager: Shutting down and abandoning module ReferenceViewer (440)
+[2020.08.22-19.38.27:409][141]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (438)
+[2020.08.22-19.38.27:485][141]LogModuleManager: Shutting down and abandoning module LocalizationService (437)
+[2020.08.22-19.38.27:493][141]LogModuleManager: Shutting down and abandoning module HardwareTargeting (434)
+[2020.08.22-19.38.27:494][141]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (432)
+[2020.08.22-19.38.27:507][141]LogModuleManager: Shutting down and abandoning module UndoHistory (430)
+[2020.08.22-19.38.27:518][141]LogModuleManager: Shutting down and abandoning module XmlParser (428)
+[2020.08.22-19.38.27:524][141]LogModuleManager: Shutting down and abandoning module Blutility (426)
+[2020.08.22-19.38.27:531][141]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (424)
+[2020.08.22-19.38.27:537][141]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (423)
+[2020.08.22-19.38.27:546][141]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (420)
+[2020.08.22-19.38.27:546][141]LogModuleManager: Shutting down and abandoning module SettingsEditor (418)
+[2020.08.22-19.38.27:546][141]LogModuleManager: Shutting down and abandoning module ProjectLauncher (416)
+[2020.08.22-19.38.27:572][141]LogModuleManager: Shutting down and abandoning module SessionFrontend (414)
+[2020.08.22-19.38.27:584][141]LogModuleManager: Shutting down and abandoning module ProfilerClient (412)
+[2020.08.22-19.38.27:591][141]LogModuleManager: Shutting down and abandoning module DeviceManager (410)
+[2020.08.22-19.38.27:601][141]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (409)
+[2020.08.22-19.38.27:657][141]LogModuleManager: Shutting down and abandoning module AutomationController (406)
+[2020.08.22-19.38.27:704][141]LogModuleManager: Shutting down and abandoning module AutomationWindow (404)
+[2020.08.22-19.38.27:723][141]LogModuleManager: Shutting down and abandoning module Layers (402)
+[2020.08.22-19.38.27:739][141]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (400)
+[2020.08.22-19.38.27:739][141]LogModuleManager: Shutting down and abandoning module DetailCustomizations (398)
+[2020.08.22-19.38.27:754][141]LogModuleManager: Shutting down and abandoning module PackagesDialog (396)
+[2020.08.22-19.38.27:777][141]LogModuleManager: Shutting down and abandoning module Persona (394)
+[2020.08.22-19.38.27:820][141]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (393)
+[2020.08.22-19.38.27:820][141]LogModuleManager: Shutting down and abandoning module AnimGraph (391)
+[2020.08.22-19.38.27:820][141]LogModuleManager: Shutting down and abandoning module Kismet (388)
+[2020.08.22-19.38.27:865][141]LogModuleManager: Shutting down and abandoning module ClassViewer (386)
+[2020.08.22-19.38.27:865][141]LogModuleManager: Shutting down and abandoning module Toolbox (384)
+[2020.08.22-19.38.27:865][141]LogModuleManager: Shutting down and abandoning module ModuleUI (382)
+[2020.08.22-19.38.27:872][141]LogModuleManager: Shutting down and abandoning module MovieSceneTools (380)
+[2020.08.22-19.38.27:895][141]LogModuleManager: Shutting down and abandoning module OutputLog (378)
+[2020.08.22-19.38.27:904][141]LogModuleManager: Shutting down and abandoning module GammaUI (376)
+[2020.08.22-19.38.27:909][141]LogModuleManager: Shutting down and abandoning module Documentation (374)
+[2020.08.22-19.38.27:909][141]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (372)
+[2020.08.22-19.38.27:909][141]LogModuleManager: Shutting down and abandoning module MovieScene (370)
+[2020.08.22-19.38.27:911][141]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (368)
+[2020.08.22-19.38.27:923][141]LogModuleManager: Shutting down and abandoning module LauncherPlatform (366)
+[2020.08.22-19.38.27:924][141]LogModuleManager: Shutting down and abandoning module AnalyticsET (364)
+[2020.08.22-19.38.27:924][141]LogModuleManager: Shutting down and abandoning module PortalServices (362)
+[2020.08.22-19.38.27:924][141]LogModuleManager: Shutting down and abandoning module PortalRpc (360)
+[2020.08.22-19.38.27:924][141]LogModuleManager: Shutting down and abandoning module MessagingRpc (358)
+[2020.08.22-19.38.27:924][141]LogModuleManager: Shutting down and abandoning module AIModule (356)
+[2020.08.22-19.38.27:924][141]LogModuleManager: Shutting down and abandoning module GameplayDebugger (355)
+[2020.08.22-19.38.27:937][141]LogModuleManager: Shutting down and abandoning module AITestSuite (353)
+[2020.08.22-19.38.27:947][141]LogModuleManager: Shutting down and abandoning module DesktopPlatform (350)
+[2020.08.22-19.38.27:947][141]LogModuleManager: Shutting down and abandoning module ProfilerService (348)
+[2020.08.22-19.38.28:091][141]LogModuleManager: Shutting down and abandoning module TaskGraph (346)
+[2020.08.22-19.38.28:106][141]LogModuleManager: Shutting down and abandoning module SteamVRController (344)
+[2020.08.22-19.38.28:106][141]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (342)
+[2020.08.22-19.38.28:106][141]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (340)
+[2020.08.22-19.38.28:106][141]LogModuleManager: Shutting down and abandoning module OculusInput (338)
+[2020.08.22-19.38.28:106][141]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (336)
+[2020.08.22-19.38.28:106][141]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (334)
+[2020.08.22-19.38.28:106][141]LogModuleManager: Shutting down and abandoning module CableComponent (332)
+[2020.08.22-19.38.28:106][141]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (330)
+[2020.08.22-19.38.28:106][141]LogModuleManager: Shutting down and abandoning module AndroidPermission (328)
+[2020.08.22-19.38.28:106][141]LogModuleManager: Shutting down and abandoning module ActorSequence (324)
+[2020.08.22-19.38.28:106][141]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (322)
+[2020.08.22-19.38.28:137][141]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (320)
+[2020.08.22-19.38.28:138][141]LogModuleManager: Shutting down and abandoning module MediaCompositing (318)
+[2020.08.22-19.38.28:138][141]LogModuleManager: Shutting down and abandoning module HTML5Networking (316)
+[2020.08.22-19.38.28:138][141]LogModuleManager: Shutting down and abandoning module AlembicImporter (314)
+[2020.08.22-19.38.28:148][141]LogModuleManager: Shutting down and abandoning module AlembicLibrary (313)
+[2020.08.22-19.38.28:148][141]LogModuleManager: Shutting down and abandoning module GeometryCache (312)
+[2020.08.22-19.38.28:148][141]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (311)
+[2020.08.22-19.38.28:148][141]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (306)
+[2020.08.22-19.38.28:148][141]LogModuleManager: Shutting down and abandoning module PluginBrowser (304)
+[2020.08.22-19.38.28:176][141]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (302)
+[2020.08.22-19.38.28:325][141]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (300)
+[2020.08.22-19.38.28:325][141]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (298)
+[2020.08.22-19.38.28:325][141]LogModuleManager: Shutting down and abandoning module UObjectPlugin (296)
+[2020.08.22-19.38.28:325][141]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (294)
+[2020.08.22-19.38.28:389][141]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (292)
+[2020.08.22-19.38.28:417][141]LogModuleManager: Shutting down and abandoning module GitSourceControl (290)
+[2020.08.22-19.38.28:436][141]LogModuleManager: Shutting down and abandoning module SourceControl (289)
+[2020.08.22-19.38.28:448][141]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (286)
+[2020.08.22-19.38.28:448][141]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (284)
+[2020.08.22-19.38.28:448][141]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (282)
+[2020.08.22-19.38.28:448][141]LogModuleManager: Shutting down and abandoning module Paper2DEditor (280)
+[2020.08.22-19.38.28:474][141]LogModuleManager: Shutting down and abandoning module MeshPaint (279)
+[2020.08.22-19.38.28:488][141]LogModuleManager: Shutting down and abandoning module LevelEditor (277)
+[2020.08.22-19.38.28:502][141]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (276)
+[2020.08.22-19.38.28:510][141]LogModuleManager: Shutting down and abandoning module MainFrame (274)
+[2020.08.22-19.38.28:511][141]LogModuleManager: Shutting down and abandoning module HotReload (273)
+[2020.08.22-19.38.28:523][141]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (268)
+[2020.08.22-19.38.28:524][141]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (266)
+[2020.08.22-19.38.28:524][141]LogModuleManager: Shutting down and abandoning module PhysXVehicles (264)
+[2020.08.22-19.38.28:524][141]LogModuleManager: Shutting down and abandoning module OculusEditor (262)
+[2020.08.22-19.38.28:524][141]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (260)
+[2020.08.22-19.38.28:524][141]LogModuleManager: Shutting down and abandoning module ImmediatePhysicsEditor (258)
+[2020.08.22-19.38.28:524][141]LogModuleManager: Shutting down and abandoning module ImmediatePhysics (256)
+[2020.08.22-19.38.28:561][141]LogModuleManager: Shutting down and abandoning module UdpMessaging (254)
+[2020.08.22-19.38.28:676][141]LogModuleManager: Shutting down and abandoning module TcpMessaging (252)
+[2020.08.22-19.38.28:789][141]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (250)
+[2020.08.22-19.38.28:800][141]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (248)
+[2020.08.22-19.38.28:800][141]LogModuleManager: Shutting down and abandoning module FacialAnimation (246)
+[2020.08.22-19.38.28:800][141]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (244)
+[2020.08.22-19.38.28:808][141]LogModuleManager: Shutting down and abandoning module GraphEditor (243)
+[2020.08.22-19.38.28:848][141]LogModuleManager: Shutting down and abandoning module ContentBrowser (241)
+[2020.08.22-19.38.28:849][141]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (238)
+[2020.08.22-19.38.28:849][141]LogModuleManager: Shutting down and abandoning module Paper2D (236)
+[2020.08.22-19.38.28:849][141]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (234)
+[2020.08.22-19.38.28:859][141]LogModuleManager: Shutting down and abandoning module WmfMedia (232)
+[2020.08.22-19.38.28:873][141]LogModuleManager: Shutting down and abandoning module ImgMedia (230)
+[2020.08.22-19.38.28:873][141]LogModuleManager: Shutting down and abandoning module PacketHandler (228)
+[2020.08.22-19.38.28:873][141]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (226)
+[2020.08.22-19.38.28:873][141]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (224)
+[2020.08.22-19.38.28:887][141]LogModuleManager: Shutting down and abandoning module MediaAssets (222)
+[2020.08.22-19.38.28:887][141]LogModuleManager: Shutting down and abandoning module Media (221)
+[2020.08.22-19.38.28:894][141]LogModuleManager: Shutting down and abandoning module Overlay (218)
+[2020.08.22-19.38.28:894][141]LogModuleManager: Shutting down and abandoning module OverlayEditor (217)
+[2020.08.22-19.38.28:895][141]LogModuleManager: Shutting down and abandoning module VREditor (214)
+[2020.08.22-19.38.28:912][141]LogModuleManager: Shutting down and abandoning module StringTableEditor (212)
+[2020.08.22-19.38.28:921][141]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (210)
+[2020.08.22-19.38.28:921][141]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (208)
+[2020.08.22-19.38.28:968][141]LogModuleManager: Shutting down and abandoning module FunctionalTesting (206)
+[2020.08.22-19.38.28:977][141]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (204)
+[2020.08.22-19.38.28:999][141]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (203)
+[2020.08.22-19.38.29:057][141]LogModuleManager: Shutting down and abandoning module UMG (200)
+[2020.08.22-19.38.29:070][141]LogModuleManager: Shutting down and abandoning module UMGEditor (199)
+[2020.08.22-19.38.29:106][141]LogModuleManager: Shutting down and abandoning module Sequencer (198)
+[2020.08.22-19.38.29:144][141]LogModuleManager: Shutting down and abandoning module MessageLog (195)
+[2020.08.22-19.38.29:153][141]LogModuleManager: Shutting down and abandoning module SlateReflector (190)
+[2020.08.22-19.38.29:192][141]LogModuleManager: Shutting down and abandoning module Slate (188)
+[2020.08.22-19.38.29:192][141]LogModuleManager: Shutting down and abandoning module EditorStyle (186)
+[2020.08.22-19.38.29:241][141]LogModuleManager: Shutting down and abandoning module MRMesh (184)
+[2020.08.22-19.38.29:241][141]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (182)
+[2020.08.22-19.38.29:241][141]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (180)
+[2020.08.22-19.38.29:241][141]LogModuleManager: Shutting down and abandoning module XAudio2 (178)
+[2020.08.22-19.38.29:242][141]LogModuleManager: Shutting down and abandoning module Networking (176)
+[2020.08.22-19.38.29:242][141]LogModuleManager: Shutting down and abandoning module Core (172)
+[2020.08.22-19.38.29:242][141]LogModuleManager: Shutting down and abandoning module LevelSequence (168)
+[2020.08.22-19.38.29:249][141]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (166)
+[2020.08.22-19.38.29:270][141]LogModuleManager: Shutting down and abandoning module KismetCompiler (164)
+[2020.08.22-19.38.29:270][141]LogModuleManager: Shutting down and abandoning module MeshUtilities (162)
+[2020.08.22-19.38.29:326][141]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (161)
+[2020.08.22-19.38.29:343][141]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (160)
+[2020.08.22-19.38.29:358][141]LogModuleManager: Shutting down and abandoning module SimplygonSwarm (159)
+[2020.08.22-19.38.29:385][141]LogModuleManager: Shutting down and abandoning module SimplygonMeshReduction (157)
+[2020.08.22-19.38.29:385][141]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (155)
+[2020.08.22-19.38.29:395][141]LogModuleManager: Shutting down and abandoning module MaterialBaking (151)
+[2020.08.22-19.38.29:417][141]LogModuleManager: Shutting down and abandoning module DerivedDataCache (148)
+[2020.08.22-19.38.29:498][141]LogDerivedDataCache: Shutdown
+[2020.08.22-19.38.29:498][141]LogModuleManager: Shutting down and abandoning module TargetPlatform (146)
+[2020.08.22-19.38.29:504][141]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (145)
+[2020.08.22-19.38.29:514][141]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (143)
+[2020.08.22-19.38.29:538][141]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (141)
+[2020.08.22-19.38.29:607][141]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (139)
+[2020.08.22-19.38.29:608][141]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (137)
+[2020.08.22-19.38.29:620][141]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (135)
+[2020.08.22-19.38.29:629][141]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (133)
+[2020.08.22-19.38.29:630][141]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (131)
+[2020.08.22-19.38.29:630][141]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (129)
+[2020.08.22-19.38.29:666][141]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (127)
+[2020.08.22-19.38.29:666][141]LogModuleManager: Shutting down and abandoning module ImageWrapper (126)
+[2020.08.22-19.38.29:666][141]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (123)
+[2020.08.22-19.38.29:682][141]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (121)
+[2020.08.22-19.38.29:682][141]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (119)
+[2020.08.22-19.38.29:688][141]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (117)
+[2020.08.22-19.38.29:695][141]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (115)
+[2020.08.22-19.38.29:695][141]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (113)
+[2020.08.22-19.38.29:708][141]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (111)
+[2020.08.22-19.38.29:716][141]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (109)
+[2020.08.22-19.38.29:722][141]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (107)
+[2020.08.22-19.38.29:722][141]LogModuleManager: Shutting down and abandoning module Messaging (105)
+[2020.08.22-19.38.29:722][141]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (103)
+[2020.08.22-19.38.29:722][141]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (101)
+[2020.08.22-19.38.29:730][141]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (99)
+[2020.08.22-19.38.29:730][141]LogModuleManager: Shutting down and abandoning module Android_PVRTCTargetPlatform (97)
+[2020.08.22-19.38.29:730][141]LogModuleManager: Shutting down and abandoning module Android_MultiTargetPlatform (95)
+[2020.08.22-19.38.29:730][141]LogModuleManager: Shutting down and abandoning module Android_ETC2TargetPlatform (93)
+[2020.08.22-19.38.29:730][141]LogModuleManager: Shutting down and abandoning module Android_ETC1TargetPlatform (91)
+[2020.08.22-19.38.29:730][141]LogModuleManager: Shutting down and abandoning module Android_DXTTargetPlatform (89)
+[2020.08.22-19.38.29:730][141]LogModuleManager: Shutting down and abandoning module Android_ATCTargetPlatform (87)
+[2020.08.22-19.38.29:730][141]LogModuleManager: Shutting down and abandoning module Android_ASTCTargetPlatform (85)
+[2020.08.22-19.38.29:730][141]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (83)
+[2020.08.22-19.38.29:730][141]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (81)
+[2020.08.22-19.38.29:731][141]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (79)
+[2020.08.22-19.38.29:731][141]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (77)
+[2020.08.22-19.38.29:740][141]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (75)
+[2020.08.22-19.38.29:741][141]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (73)
+[2020.08.22-19.38.29:741][141]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (71)
+[2020.08.22-19.38.29:741][141]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (69)
+[2020.08.22-19.38.29:741][141]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (67)
+[2020.08.22-19.38.29:741][141]LogModuleManager: Shutting down and abandoning module InputCore (64)
+[2020.08.22-19.38.29:741][141]LogModuleManager: Shutting down and abandoning module Settings (62)
+[2020.08.22-19.38.29:741][141]LogModuleManager: Shutting down and abandoning module PhysXCooking (60)
+[2020.08.22-19.38.29:741][141]LogModuleManager: Shutting down and abandoning module SteamVR (58)
+[2020.08.22-19.38.29:741][141]LogModuleManager: Shutting down and abandoning module OculusHMD (56)
+[2020.08.22-19.38.29:750][141]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (54)
+[2020.08.22-19.38.29:767][141]LogModuleManager: Shutting down and abandoning module AppleARKit (52)
+[2020.08.22-19.38.29:767][141]LogModuleManager: Shutting down and abandoning module AugmentedReality (51)
+[2020.08.22-19.38.29:767][141]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (48)
+[2020.08.22-19.38.29:767][141]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (44)
+[2020.08.22-19.38.29:809][141]LogModuleManager: Shutting down and abandoning module XMPP (43)
+[2020.08.22-19.38.29:854][141]LogModuleManager: Shutting down and abandoning module HTTP (41)
+[2020.08.22-19.38.29:854][141]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2020.08.22-19.38.29:854][141]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B0065865C-4AE6-2CB0-FCF1-F7AC78235EF9%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.18.3-3832480%2B%2B%2BUE4%2BRelease-4.18&UserID=dab985eb449ee4f1b342389e404cab9f%7C845779d9bd904572b61cf91381b7a44e%7C4e718ad1-99cd-4dc7-9063-d4e2b6f3fd7d&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2020.08.22-19.38.29:900][141]LogModuleManager: Shutting down and abandoning module SSL (40)
+[2020.08.22-19.38.29:902][141]LogModuleManager: Shutting down and abandoning module AnimationModifiers (36)
+[2020.08.22-19.38.29:928][141]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
+[2020.08.22-19.38.29:941][141]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
+[2020.08.22-19.38.29:960][141]LogModuleManager: Shutting down and abandoning module TextureCompressor (30)
+[2020.08.22-19.38.30:033][141]LogModuleManager: Shutting down and abandoning module ShaderCore (28)
+[2020.08.22-19.38.30:033][141]LogModuleManager: Shutting down and abandoning module Landscape (26)
+[2020.08.22-19.38.30:033][141]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
+[2020.08.22-19.38.30:053][141]LogModuleManager: Shutting down and abandoning module OpenGLDrv (22)
+[2020.08.22-19.38.30:072][141]LogModuleManager: Shutting down and abandoning module D3D11RHI (20)
+[2020.08.22-19.38.30:072][141]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (18)
+[2020.08.22-19.38.30:073][141]LogModuleManager: Shutting down and abandoning module Renderer (16)
+[2020.08.22-19.38.30:073][141]LogModuleManager: Shutting down and abandoning module Engine (14)
+[2020.08.22-19.38.30:077][141]LogModuleManager: Shutting down and abandoning module CoreUObject (12)
+[2020.08.22-19.38.30:077][141]LogModuleManager: Shutting down and abandoning module NetworkFile (10)
+[2020.08.22-19.38.30:091][141]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (8)
+[2020.08.22-19.38.30:104][141]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2020.08.22-19.38.30:114][141]LogModuleManager: Shutting down and abandoning module SandboxFile (4)
+[2020.08.22-19.38.30:114][141]LogModuleManager: Shutting down and abandoning module PakFile (2)
+[2020.08.22-19.38.30:183][141]LogExit: Exiting.
+[2020.08.22-19.38.30:385][141]Log file closed, 08/23/20 01:38:30
